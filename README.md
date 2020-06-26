@@ -37,6 +37,13 @@ adds a small icon to the corner of buildings that visibly indicates their curren
 ##### clear cloud saves
 adds a button to remove save slots from the cloud
 
+##### keyboard shortcuts
+push e to select the transport line / conveyor
+
+push f to toggle fast/normal
+
+push c to toggle play/pause
+
 ## support the creator
 
 please support Factory Idle's author [Baldurans]
