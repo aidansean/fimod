@@ -44,6 +44,9 @@ push f to toggle fast/normal
 
 push c to toggle play/pause
 
+##### time estimates
+shows time estimates of when you can afford things based on your current income (avg) and ticks per second. works on factories, research, upgrades, and achievement pages.
+
 ## support the creator
 
 please support Factory Idle's author [Baldurans]

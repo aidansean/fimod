@@ -7,3 +7,4 @@ import './clearfactories';
 import './showefficiency';
 import './clearcloud';
 import './keyboardshortcuts';
+import './timeestimates';
